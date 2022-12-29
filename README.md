@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou estudando angular com spring e .netcore.
 - Lendo o livro Código Limpo de Robert C. Martin - Super indico.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daysess&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daysess&theme=default&show_icons=true&include_all_commits=true&count_private=true)
 
 <div> 
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
