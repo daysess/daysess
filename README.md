@@ -1,7 +1,7 @@
 ### Olá pessoal, meu nome é Dayse Soares 👋
 - 🔭 Atualmente estou estudando angular com spring e .netcore.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <!--
 **daysess/daysess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
