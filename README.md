@@ -1,5 +1,6 @@
 ### Olá pessoal, meu nome é Dayse Soares 👋
 - 🔭 Atualmente estou estudando angular com spring e .netcore.
+- Lendo o livro Código Limpo de Robert C. Martin - Super indico.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)
 
