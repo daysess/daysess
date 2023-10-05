@@ -2,9 +2,9 @@
 - 🔭 Atualmente estou estudando JavaScript, angular com spring e php.
 - Lendo Lógica de Programação e Algoritmos com javascript - Edécio Fernando lepsen
 - Leitura concluída dos livros:
-  -- Leitura concluída do livro Código Limpo de Robert C. Martin - Super indico;
-  -- Mergulho_nos_Padroes_de_Projeto;
-  -- Domain-Driven Design: Atacando as Complexidades no Coração do Software. 
+  + Leitura concluída do livro Código Limpo de Robert C. Martin - Super indico;
+  + Mergulho_nos_Padroes_de_Projeto;
+  + Domain-Driven Design: Atacando as Complexidades no Coração do Software. 
 
 
 
